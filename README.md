@@ -3,4 +3,4 @@ Addon that allows you to change render distance of certain categories of entitie
 
 - Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2513275664
 - GitHub: https://github.com/scuroinside/Simple-Render-Distance
-- Discord: http://ds.asg-project.fun
+- Discord: http://ds.asg-project.ru
